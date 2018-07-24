@@ -9,7 +9,7 @@
 import UIKit
 
 /// Simple view for drawing gradients and borders.
-@IBDesignable open class GradientView: UIView {
+open class GradientView: UIView {
 
 	// MARK: - Types
 
